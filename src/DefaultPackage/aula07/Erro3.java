@@ -1,4 +1,4 @@
-package DefaultPackage.aula7;
+package DefaultPackage.aula07;
 
 public class Erro3 {
     /*

@@ -1,4 +1,4 @@
-package DefaultPackage.aula6;
+package DefaultPackage.aula06;
 
 public class Argumentos {
     public static void main (String[] args){
